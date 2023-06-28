@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clusterSim"]
 	path = clusterSim
 	url = https://github.com/cran/clusterSim
-	shallow = true
-	registered = true
 [submodule "IFMCDM"]
 	path = IFMCDM
 	url = https://github.com/cran/IFMCDM
-	shallow = true
-	registered = true
 [submodule "mdsOpt"]
 	path = mdsOpt
 	url = https://github.com/cran/mdsOpt
-	shallow = true
-	registered = true
 [submodule "symbolicDA"]
 	path = symbolicDA
 	url = https://github.com/cran/symbolicDA
-	shallow = true
-	registered = true
