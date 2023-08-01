@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "clusterSim"]
-	path = clusterSim
-	url = https://github.com/cran/clusterSim
 [submodule "IFMCDM"]
 	path = IFMCDM
 	url = https://github.com/cran/IFMCDM
+[submodule "clusterSim"]
+	path = clusterSim
+	url = https://github.com/cran/clusterSim
 [submodule "mdsOpt"]
 	path = mdsOpt
 	url = https://github.com/cran/mdsOpt
