@@ -16,4 +16,4 @@
 	url = https://github.com/cran/symbolicDA
 [submodule "warehouseTools"]
 	path = warehouseTools
-	url = https://github.com/cran/warehouseTools
+	url = https://github.com/a-dudek-ue/warehousetools
